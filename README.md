@@ -6,7 +6,7 @@ An end-to-end data analysis project exploring customer demographics and purchasi
 
 ## 📊 Dashboard Preview
 
-![Bike Sales Dashboard](images/dashboard_screenshot.png)
+![Bike Sales Dashboard](bike-dashboard.png)
 
 ---
 
@@ -56,8 +56,8 @@ The goal of this project is to analyze customer demographic attributes (income, 
 | File / Folder | Description |
 | :--- | :--- |
 | `bike_sales_dashboard.xlsx` | Interactive workbook containing raw data, cleaning steps, pivot tables, and dashboard |
-| `data/` | Raw dataset (`bike_buyers_raw.csv`) |
-| `images/` | Dashboard preview screenshot used in documentation |
+|  `bike_buyers_raw.csv` | Raw dataset |
+| `bike-dashboard.png`  |  Dashboard preview screenshot used in documentation |
 
 ---
 
