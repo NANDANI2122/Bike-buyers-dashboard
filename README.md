@@ -65,4 +65,4 @@ The goal of this project is to analyze customer demographic attributes (income, 
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/bike-sales-dashboard.git
+   git clone https://github.com/NANDANI2122/bike-sales-dashboard.git
